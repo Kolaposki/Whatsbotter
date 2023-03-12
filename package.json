@@ -1,0 +1,17 @@
+{
+    "name": "Whatsbotter",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "keywords": [],
+    "author": "Kolapo Oshodi",
+    "license": "ISC",
+    "dependencies": {
+        "qrcode-terminal": "^0.12.0",
+        "whatsapp-web.js": "^1.19.4"
+    }
+}
